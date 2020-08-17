@@ -1,4 +1,5 @@
 /**
+ * author：lovelywhite
  * 怎么运行？
  * 首先安装node 服务，然后 在这个文件目录下执行 npm install 安装完依赖以后
  * 就可以执行 npm start 开启服务啦～
